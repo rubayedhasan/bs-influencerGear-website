@@ -1,0 +1,44 @@
+/* basic styles  */
+* {
+  padding: 0;
+  margin: 0;
+  outline: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
+
+/* header section styles  */
+header {
+  padding-top: 30px;
+}
+
+nav {
+  margin-bottom: 50px;
+}
+
+header .navbar .navbar-brand {
+  color: #3a3a3a;
+  font-size: 24px;
+  font-weight: 700;
+  font-family: "Poppins", sans-serif;
+}
+
+header .navbar-nav .nav-link {
+  color: #3a3a3a;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: "Poppins", sans-serif;
+  margin-right: 35px;
+}
+header .navbar-nav .fa-magnifying-glass,
+header .navbar-nav .fa-cart-shopping {
+  color: #000;
+  font-size: 18px;
+  font-weight: 600;
+}
