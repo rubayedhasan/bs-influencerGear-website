@@ -108,7 +108,7 @@ header .navbar-nav .fa-cart-shopping {
 
 .card-title {
   color: #18191f !important;
-  font-size: 28px;
+  font-size: 27px;
   font-weight: 500;
   font-family: "Poppins", sans-serif;
   margin-bottom: 12px !important;
@@ -151,4 +151,69 @@ header .navbar-nav .fa-cart-shopping {
   font-weight: 700;
   font-family: "Poppins", sans-serif;
   text-decoration: none;
+}
+
+/* feature section styles  */
+.feature {
+  margin-top: 100px;
+}
+
+.feature-title,
+.feature-text {
+  color: #0a0826;
+  font-size: 38px;
+  font-weight: 700;
+  font-family: "Poppins", sans-serif;
+  margin-bottom: 16px;
+}
+
+.feature-text {
+  color: #6c6c6c;
+  font-size: 16px;
+}
+
+.feature .feature-btn {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 700;
+  font-family: "Poppins", sans-serif;
+  background-color: #e02c6d;
+  padding: 10px 24px;
+}
+
+/* footer section styles  */
+footer {
+  background-color: #0a0826;
+  margin-top: 100px;
+  padding: 50px 0;
+}
+
+.footer-title {
+  color: #fff;
+  font-size: 24px;
+  font-weight: 700;
+  font-family: "Poppins", sans-serif;
+}
+
+.footer-text {
+  color: #d9dbe1;
+  font-size: 14px;
+  font-weight: 700;
+  font-family: "Manrope", sans-serif;
+  margin-bottom: 5px;
+}
+
+.social-icon {
+  margin-top: 17px;
+}
+
+.fa-instagram,
+.fa-basketball,
+.fa-twitter,
+.fa-youtube {
+  color: #fff;
+  margin-right: 16px;
+  padding: 12px;
+  border-radius: 50%;
+  background-color: #d1d0d031;
 }
