@@ -79,3 +79,76 @@ header .navbar-nav .fa-cart-shopping {
   background-repeat: no-repeat;
   background-position: center center;
 }
+
+/* our-sponsor section styles  */
+.our-sponsor {
+  padding: 25px;
+  margin-top: 100px;
+  box-shadow: 0 1.5px 5px #3a3a3a;
+}
+
+/* our-product section styles  */
+.our-product {
+  margin-top: 100px;
+}
+
+.duct-title {
+  color: #3a3a3a;
+  font-size: 28px;
+  font-weight: 600;
+  font-family: "Poppins", sans-serif;
+  margin-bottom: 100px;
+}
+
+.card {
+  padding: 15px;
+  border: 0 !important;
+  box-shadow: 1px 0 10px #5e6366;
+}
+
+.card-title {
+  color: #18191f !important;
+  font-size: 28px;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+  margin-bottom: 12px !important;
+}
+
+.card-subtitle {
+  color: #000 !important;
+  font-size: 24px;
+  font-weight: 400;
+  font-family: "Roboto", sans-serif;
+  margin-bottom: 8px !important;
+}
+
+.card-rate .rate .fa-star,
+.card-rate .rate .fa-star-half-stroke {
+  color: #fb8200;
+  font-size: 16px;
+}
+.card-rate .text {
+  color: #5e6366;
+  font-size: 14px;
+  font-weight: 700;
+  font-family: "Roboto", sans-serif;
+}
+.card-text {
+  color: #787885;
+  font-size: 14px;
+  font-weight: 700;
+  font-family: "Inter", sans-serif;
+  margin-top: 10px;
+}
+
+.more-product-btn {
+  margin-top: 50px;
+}
+
+.product-btn {
+  color: #e02c6d;
+  font-size: 16px;
+  font-weight: 700;
+  font-family: "Poppins", sans-serif;
+  text-decoration: none;
+}
